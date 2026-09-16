@@ -47,19 +47,11 @@ Crafting it, as it should be.
 
 ## Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HEMANTHSV31/HEMANTHSV31/output-pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HEMANTHSV31/HEMANTHSV31/output-pacman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HEMANTHSV31/HEMANTHSV31/output-pacman/pacman-contribution-graph.svg">
-</picture>
+
 
 ![gitartwork](gitartwork.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/grid-snake.svg" />
-  <img alt="grid snake animation" src="dist/grid-snake.svg" />
-</picture>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HEMANTHSV31/HEMANTHSV31/output-snake/github-snake-dark.svg" />
