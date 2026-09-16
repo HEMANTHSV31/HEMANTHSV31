@@ -1,0 +1,25 @@
+on: 
+  push:
+  pull_request:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:  
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+           user_name: HEMANTHSV31
+           text: HEMANTH
+      - name: Commit and push
+        run: |
+          git config user.name "HEMANTHSV31"
+          git config user.email "hemanthsv.al24@bitsathy.ac.in"
+          git add gitartwork.svg
+          git commit -m "Update gitartwork SVG" || echo "No changes to commit"
+          git push
