@@ -1,9 +1,5 @@
 # Hi, I'm Hemanth S V 👋
-
-<a href="#">
-    <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="210">
-</a>
-
+<a href="#"><img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="210"></a>
 📍 **India** | 😶🌫️ **Software Engineer** | ⚙️ **Architecting Systems** | 🚀 **Scaling Backend Systems** | 
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
